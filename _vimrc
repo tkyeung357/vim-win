@@ -1,3 +1,6 @@
+cd C:\Users\vco08711 
+set langmenu=en_US
+let $LANG = 'en_US'
 set encoding=utf-8
 call pathogen#infect()      "Executes the pathogen plugin, which loads other plugins
 let mapleader=","           "Changes Leader key into a comma instead of a backslash
